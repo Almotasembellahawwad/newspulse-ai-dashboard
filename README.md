@@ -1,7 +1,7 @@
 # NewsPulse v5.0
 ### The Ultimate AI-Powered Market Intelligence Dashboard
 
-![NewsPulse — Markets, news and AI](docs/brand-cover.png)
+![NewsPulse product interface](docs/product-preview.png)
 
 [Live product](https://newspulse-ai-dashboard.vercel.app/) · [Portfolio](https://almotasembellahawwad.vercel.app/) · [Author](https://github.com/Almotasembellahawwad)
 
