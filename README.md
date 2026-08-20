@@ -1,7 +1,9 @@
-# 🌐 NewsPulse v5.0
+# NewsPulse v5.0
 ### The Ultimate AI-Powered Market Intelligence Dashboard
 
-![NewsPulse Banner](https://picsum.photos/seed/newspulse/1000/300)
+![NewsPulse — Markets, news and AI](docs/brand-cover.png)
+
+[Live product](https://newspulse-ai-dashboard.vercel.app/) · [Portfolio](https://almotasembellahawwad.vercel.app/) · [Author](https://github.com/Almotasembellahawwad)
 
 **NewsPulse** is an enterprise-grade, modern news aggregation platform and financial dashboard. It bypasses restrictive third-party APIs by dynamically parsing global RSS feeds directly from top publishers (BBC, TechCrunch, Reuters, WSJ) and pushing the text snippets through Meta's `LLaMA 3.3 70B` via the ultra-fast Groq LPU engine.
 
@@ -68,6 +70,13 @@ Open `http://localhost:3000` to see the live portal.
 
 <br/>
 
+## Roadmap
+
+- [ ] Source reliability scoring and duplicate-story clustering
+- [ ] Saved market watchlists and personalized briefings
+- [ ] Historical sentiment comparison
+- [ ] Automated tests for feeds and AI parsing
+
 ---
-**Designed & Developed by [Almotasembellahawwad](https://github.com/Almotasembellahawwad)**
-*NewsPulse Inc. © 2026*
+
+Designed and developed by [Almotasembellah Awwad](https://almotasembellahawwad.vercel.app/).
