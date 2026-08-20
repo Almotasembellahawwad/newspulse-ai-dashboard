@@ -43,7 +43,7 @@ This provides instant, zero-delay market sentiment analysis, trending themes ext
 ### 2. Installation
 Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/mohasbks/newspulse-ai-dashboard.git
+git clone https://github.com/Almotasembellahawwad/newspulse-ai-dashboard.git
 cd newspulse
 npm install
 ```
@@ -69,5 +69,5 @@ Open `http://localhost:3000` to see the live portal.
 <br/>
 
 ---
-**Designed & Developed by [mohasbks](https://github.com/mohasbks)**  
+**Designed & Developed by [Almotasembellahawwad](https://github.com/Almotasembellahawwad)**
 *NewsPulse Inc. © 2026*
